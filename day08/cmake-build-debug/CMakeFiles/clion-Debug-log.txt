@@ -1,0 +1,4 @@
+/home/yeluo/.cache/JetBrains/RemoteDev/dist/2353c1ea5e0fc_CLion-2024.1.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang-18 -DCMAKE_CXX_COMPILER=/usr/bin/clang++-18 -S /home/yeluo/project/C++/Internet_Programming/30_day_make_cpp_server/day08 -B /home/yeluo/project/C++/Internet_Programming/30_day_make_cpp_server/day08/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/yeluo/project/C++/Internet_Programming/30_day_make_cpp_server/day08/cmake-build-debug
