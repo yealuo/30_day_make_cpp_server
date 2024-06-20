@@ -5,7 +5,9 @@
 #include "EventLoop.h"
 #include <vector>
 
-EventLoop::EventLoop() : ep(new Epoll()), is_quit(false) {}
+EventLoop::EventLoop() : ep(nullptr), is_quit(false) {
+    ep=new Epoll();
+}
 
 EventLoop::~EventLoop() {
     delete ep;
